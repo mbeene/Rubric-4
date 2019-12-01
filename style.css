@@ -1,0 +1,18 @@
+.hero {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bree Serif', serif;
+    height: 100vh;
+}
+
+h2 {
+    font-size: 100px;
+    text-shadow: 10px 10px 0 rgba(0,0,0,0.17);
+    color: rgb(99, 97, 152);
+}
+
+.name {
+    color: rgb(2, 191, 197);
+}
